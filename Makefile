@@ -13,6 +13,7 @@ SRCS = $(addprefix $(LIBFT_DIR), \
        ft_isascii.c \
        ft_isprint.c \
        ft_strlen.c \
+       ft_aclen.c \
        ft_memset.c \
        ft_bzero.c \
        ft_memcpy.c \
